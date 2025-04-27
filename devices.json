@@ -1,0 +1,30 @@
+[
+    {
+        "lat": 44.391,
+        "lon": -79.6865,
+        "ip": "192.168.1.2",
+        "name": "iPhone 13 Pro",
+        "status": "online"
+    },
+    {
+        "lat": 44.3925,
+        "lon": -79.69,
+        "ip": "192.168.1.3",
+        "name": "Samsung Galaxy S22",
+        "status": "offline"
+    },
+    {
+        "lat": 44.395,
+        "lon": -79.682,
+        "ip": "192.168.1.4",
+        "name": "MacBook Pro",
+        "status": "online"
+    },
+    {
+        "lat": 44.3885,
+        "lon": -79.68,
+        "ip": "192.168.1.5",
+        "name": "Windows PC",
+        "status": "offline"
+    }
+]
